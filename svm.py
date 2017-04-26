@@ -44,3 +44,6 @@ def normfun(w):
 
 def costfun(w, b, x, y, C):
 
+
+if __name__ == '__main__':
+
